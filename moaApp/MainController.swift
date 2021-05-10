@@ -24,7 +24,9 @@ class MainController: UIViewController {
         delegate?.sendData(data: url1)
     }
     
- 
+    // How to send a Data!?
+    //1.Delegate
+    //2.Segue
     @IBAction func button1Act(_ sender: Any) {
         delegate?.sendData(data: url1)
     }

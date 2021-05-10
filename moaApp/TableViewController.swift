@@ -10,7 +10,7 @@ import MessageUI
 
 class TableViewController:UITableViewController,MFMailComposeViewControllerDelegate {
     
-    let number = "010-5157-4348"
+    fileprivate let number = "010-5157-4348"
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         
