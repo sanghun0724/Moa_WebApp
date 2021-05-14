@@ -18,6 +18,7 @@
 - MFMailCompnentView + calling func 
 - Custom toolbar (in code)
 - indicator view (use delegate)
+- Working Period = about 2 days
 
 ## Requirements
 
