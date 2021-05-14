@@ -13,7 +13,7 @@
 
 ## Features
 
-- This is simpe WebApp(WKWebview -> SFSfariView) you can choose one of three URL button.
+- This is simpe WebApp(WKWebview -> SFSafariView) you can choose one of three URL button.
 - Push Notification(FCM)
 - MFMailCompnentView + calling func 
 - Custom toolbar (in code)
